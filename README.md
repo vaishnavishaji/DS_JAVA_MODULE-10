@@ -144,8 +144,8 @@ To design and implement java program that constructs a Binary Search Tree (BST) 
 /*
 Program to construct a Binary Search Tree (BST) using given Book IDs 
 and search for a specific Book ID
-Developed by: AISHWARYA V
-RegisterNumber: 212223220003
+Developed by: VAISHNAVI S.A
+RegisterNumber: 212223220119
 */
 
 import java.util.*;
@@ -245,8 +245,8 @@ To design and implement a java program to perform Breadth-First Search (BFS) tra
 ```
 /*
 Program to perform Breadth-First Search (BFS) traversal on a city’s junction map represented as a graph
-Developed by: AISHWARYA V
-RegisterNumber: 212223220003
+Developed by: VAISHNAVI S.A
+RegisterNumber: 212223220119
 */
 
 import java.util.*;
@@ -355,8 +355,8 @@ The number of reachable attractions from the same starting point using Breadth-F
 ```
 /*
 Program to determine Shortest Path and Reachability in a Heritage Town using BFS
-Developed by: AISHWARYA V
-RegisterNumber: 212223220003
+Developed by: VAISHNAVI S.A
+RegisterNumber: 212223220119
 */
 import java.util.*;
 
@@ -460,8 +460,8 @@ To design and implement a java program that helps an electric vehicle (EV) find 
 ```
 /*
 Program to find the Fastest Route to a Charging Station using Dijkstra’s Algorithm
-Developed by: AISHWARYA V
-RegisterNumber: 212223220003
+Developed by: VAISHNAVI S.A
+RegisterNumber: 212223220119
 */
 import java.util.*;
 
